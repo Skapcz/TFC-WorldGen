@@ -5,8 +5,9 @@
       "generator": {
         "type": "minecraft:noise",
         "biome_source": {
-          "type": "minecraft:multi_noise",
-          "preset": "minecraft:overworld"
+          "type": "minecraft:fixed",
+          "preset": "minecraft:overworld",
+          "biome": "minecraft:plains"
         },
         "settings": "tfc_worldgen:overworld"
       }
