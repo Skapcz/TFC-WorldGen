@@ -43,9 +43,9 @@
         },
         "argument2": {
           "type": "minecraft:noise",
-          "noise": "minecraft:temperature_large",
+          "noise": "tfc_worldgen:custom_noise",
           "xz_scale": 1,
-          "y_scale": 4
+          "y_scale": 1
         }
       },
       "argument2": {
