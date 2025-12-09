@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:cache_2d",
+  "argument": {
+    "type": "minecraft:mul",
+    "argument1": "tfc_worldgen:overworld/e/b/2",
+    "argument2": "tfc_worldgen:overworld/e/a/3"
+  }
+}

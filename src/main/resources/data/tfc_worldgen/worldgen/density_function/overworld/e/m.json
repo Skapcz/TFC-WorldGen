@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:add",
+  "argument1": {
+    "type": "minecraft:square",
+    "argument": {
+      "type": "minecraft:abs",
+      "argument": "tfc_worldgen:overworld/r/2"
+    }
+  },
+  "argument2": "tfc_worldgen:overworld/e/3"
+}

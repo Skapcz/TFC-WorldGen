@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:cache_2d",
+  "argument": {
+    "type": "minecraft:noise",
+    "noise": "tfc_worldgen:ridge",
+    "xz_scale": 0.2,
+    "y_scale": 0
+  }
+}

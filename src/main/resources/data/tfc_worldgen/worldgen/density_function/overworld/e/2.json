@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:cache_2d",
+  "argument": {
+    "type": "minecraft:clamp",
+    "input": {
+      "type": "minecraft:mul",
+      "argument1": {
+        "type": "minecraft:add",
+        "argument1": {
+          "type": "minecraft:mul",
+          "argument1": "tfc_worldgen:overworld/continents",
+          "argument2": 1
+        },
+        "argument2": {
+          "type": "minecraft:mul",
+          "argument1": {
+            "type": "minecraft:abs",
+            "argument": "tfc_worldgen:overworld/r/1"
+          },
+          "argument2": 1
+        }
+      },
+      "argument2": 1
+    },
+    "min": -0.18,
+    "max": 1
+  }
+}

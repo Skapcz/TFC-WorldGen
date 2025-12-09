@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:add",
+  "argument1": "tfc_worldgen:overworld/1/depth",
+  "argument2": 0
+}
